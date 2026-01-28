@@ -1,4 +1,5 @@
 # Magisk Changelog
+magisk sem queda de fps
 
 ### v30.6 (2025.12.1)
 
